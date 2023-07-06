@@ -12,6 +12,5 @@
 - https://www.tumblr.com/soltony65/720326749921198080/hi-everyone-what-you-are-going-to-read-now-is-very?source=share
 
 
-SolTony65/SolTony65 is a ✨ special ✨ repository because its `README.md`[Drea Wish](https://rb.gy/opj3z)] appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
